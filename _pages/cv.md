@@ -14,9 +14,9 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2028 (expected)
    * Under Supervisiotion of Professor [James Anderson ](https://www.columbia.edu/~ja3451/index.html)
 * M.S. in Electrical and Computer Engineering, University of Waterloo, 2024
-    *Under Supervisiotion of Professor [Ravi mazumdar ](https://ece.uwaterloo.ca/~mazum/)
+    * Under Supervisiotion of Professor [Ravi mazumdar ](https://ece.uwaterloo.ca/~mazum/)
 * B.S. in Electrical Engineering, Sharif University of Technology, 2022
-    *Under Supervisiotion of Professor [Mohammed Fakharzadeh ](https://sharif.edu/~fakharzadeh/#)
+    * Under Supervisiotion of Professor [Mohammed Fakharzadeh ](https://sharif.edu/~fakharzadeh/#)
 
 Work experience
 ======
