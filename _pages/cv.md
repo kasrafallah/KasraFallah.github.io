@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, GitHub University, 2028 (expected)
+  Under Supervisiotion of Professor [James Anderson ](https://www.columbia.edu/~ja3451/index.html)
+* M.S. in Electrical and Computer Engineering, University of Waterloo, 2024
+  Under Supervisiotion of Professor [Ravi mazumdar ](https://ece.uwaterloo.ca/~mazum/)
+* B.S. in Electrical Engineering, Sharif University of Technology, 2022
+  Under Supervisiotion of Professor [Mohammed Fakharzadeh ](https://sharif.edu/~fakharzadeh/#)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2022 - Aug 2024: Research Assistant
+  * University of Waterloo
+  * Supervisor: Professor Ravi mazumdar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2021 - Aug 2022: Research Assistant
+  * Sharif University of Technology
+  * Supervisor: Professor Mohammed Fakharzadeh
   
 Skills
 ======
