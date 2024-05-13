@@ -24,7 +24,7 @@ author:
   avatar           : "Kasra1-min.jpg"
   name             : "Kasra Fallah"
   pronouns         : "he/him"  
-  bio              : "Graduate student  Uwaterloo"
+  bio              : "Graduate student @ UWaterloo"
   location         : "Waterloo, Ontario"
   employer         : "University of Waterloo"
   uri              : # URL
@@ -32,10 +32,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/0009-0001-7405-2677"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
