@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who Am I?"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I’m **Kasra Fallah**, a Ph.D. candidate in Electrical Engineering at **Columbia University**, advised by [Professor James Anderson](https://www.columbia.edu/~ja3451/). Before Columbia, I completed my Master of Applied Science at the **University of Waterloo**, where I was supervised by [Professor Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). I was awarded the Graduate Research Studentship (GRS) and the International Master's Award of Excellence (IMAE) fellow. I earned my Bachelor’s degree in Electrical Engineering from **Sharif University of Technology** in Tehran, Iran, graduating with distinction. During my undergraduate studies, I served as a teaching assistant and in research positions.
+
 
 A data-driven personal website
 ======
