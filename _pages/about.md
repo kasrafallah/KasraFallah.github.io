@@ -14,10 +14,14 @@ Research interests
 ======
 I am broadly interested in **stochastic analysis**, especially in its applications to **control theory**, **learning theory**, and **mathematical optimization**.
 
-## 📄 Selected Publications
+##  Selected Publications
 
-- **[On the Gradient Domination of the LQG Problem](link)**  
+- **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
   *Kasra Fallah, Leonardo F. Toso, and James Anderson*  
   _arXiv preprint_, 2025.  
-  [[arXiv]([link](https://arxiv.org/abs/2507.09026))] 
-
+  [arXiv](https://arxiv.org/abs/2507.09026)
+  
+- **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise]([https://arxiv.org/abs/2507.09026](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47))**  
+  *Kasra Fallah*  
+  _University of Waterloo_, UW space, 2024.  
+  [UW Space](https://arxiv.org/abs/2507.09026](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)
