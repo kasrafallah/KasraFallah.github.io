@@ -63,11 +63,22 @@ Publications
 
   
 
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I have over five years of teaching experience, beginning with high school-level coaching for the **Physics Olympiad (IPhO)**, which sparked my enduring passion for teaching and mentoring. Since then, I have served as a Head Teaching Assistant (Head TA) across multiple institutions and courses:
+
+#### Columbia University
+- **EEME E6601: Introduction to Control Theory** — Head TA  
+- **EEME E6602: Modern Control Theory** — Head TA  
+
+#### University of Waterloo
+- **ECE 307: Probability Theory and Statistics 2** — Head TA  
+
+#### Sharif University of Technology
+- **Probability Theory** — Head TA  
+- **Mathematics for Engineering** — Head TA (2 terms)  
+- **Signals and Systems** — Head TA (2 terms)
+
   
 Service and Leadership
 ======
