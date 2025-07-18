@@ -50,22 +50,29 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site. publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+- **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
+  * **Kasra Fallah**, Leonardo F. Toso, and James Anderson*  
+  _arXiv preprint_, Under review 2025.  
+  [arXiv](https://arxiv.org/abs/2507.09026)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+- **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)**  
+  **Kasra Fallah**  
+  _University of Waterloo_, UW space, 2024.  
+  [UW Space](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)
+
   
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+
+- Reviewer for major conferences and journals in the control and information theory community, including:
+  - **IEEE Conference on Decision and Control (CDC)**
+  - **IEEE Control Systems Letters (L-CSS)**
+  - **IEEE Transactions on Information Theory**
