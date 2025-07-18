@@ -25,6 +25,11 @@ I am broadly interested in **stochastic analysis**, especially in its applicatio
   _University of Waterloo_, UW space, 2024.  
   [UW Space](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)
 
+Mentorship
+======
+
+- Quiankun Li:  MS student, EE department, Columbia University
+
 Teaching Experience
 ======
 I have over five years of teaching experience, beginning with high school-level coaching for the **Physics Olympiad (IPhO)**, which sparked my enduring passion for teaching and mentoring. Since then, I have served as a Head Teaching Assistant (Head TA) across multiple institutions and courses:
