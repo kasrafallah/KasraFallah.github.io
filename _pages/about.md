@@ -29,7 +29,28 @@ I am broadly interested in **stochastic analysis**, especially in its applicatio
 Mentorship
 ======
 
-- Quiankun Li:  MS student, EE department, Columbia University
+- Quiankun Li:  MS student, Applied Math department, Columbia University
+
+Honors and Awards
+======
+
+- **Xuemin Shen Graduate Scholarship in Telecommunication**  
+  University of Waterloo, 2023
+
+- **International Master's Award of Excellence (IMAE)**  
+  University of Waterloo (2022 & 2023)
+
+- **Graduate Research Studentship (GRS)**  
+  University of Waterloo 
+
+- **Gold Medalist**, 30th National Physics Olympiad (IRPHO), Iran, 2017
+
+- **Gold Medalist**, National Robocop Olympiad, Iran, 2015
+
+
+
+
+
 
 Teaching Experience
 ======
