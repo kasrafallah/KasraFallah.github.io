@@ -61,7 +61,14 @@ I have over five years of teaching experience, beginning with high school-level 
 - **EEME E6602: Modern Control Theory** — Head TA  
 
 #### University of Waterloo
-- **ECE 307: Probability Theory and Statistics 2** — Head TA  
+- **ECE 307: Probability Theory and Statistics 2** — Head TA
+
+Service and Leadership
+======
+
+- Reviewer for major conferences and journals in the control and information theory community, including:
+  - **IEEE Conference on Decision and Control (CDC)**
+  - **IEEE Transactions on Information Theory**
 
 #### Sharif University of Technology
 - **Probability Theory** — Head TA  
