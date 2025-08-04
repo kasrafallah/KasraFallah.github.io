@@ -63,14 +63,16 @@ I have over five years of teaching experience, beginning with high school-level 
 #### University of Waterloo
 - **ECE 307: Probability Theory and Statistics 2** — Head TA
 
+
+#### Sharif University of Technology
+- **Probability Theory** — Head TA  
+- **Mathematics for Engineering** — Head TA (2 terms)  
+- **Signals and Systems** — Head TA (2 terms)
+
+
 Service and Leadership
 ======
 
 - Reviewer for major conferences and journals in the control and information theory community, including:
   - **IEEE Conference on Decision and Control (CDC)**
   - **IEEE Transactions on Information Theory**
-
-#### Sharif University of Technology
-- **Probability Theory** — Head TA  
-- **Mathematics for Engineering** — Head TA (2 terms)  
-- **Signals and Systems** — Head TA (2 terms)
