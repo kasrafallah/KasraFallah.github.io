@@ -61,7 +61,23 @@ Publications
   _University of Waterloo_, UW space, 2024.  
   [UW Space](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)
 
-  
+Honors and Awards
+======
+
+- **Xuemin Shen Graduate Scholarship in Telecommunication**  
+  University of Waterloo, 2023
+
+- **International Master's Award of Excellence (IMAE)**  
+  University of Waterloo — Awarded $7,500 CAD, 2022
+
+- **Graduate Research Studentship (GRS)**  
+  University of Waterloo — Total value: $64,000 CAD
+
+- **Gold Medalist**, 30th National Physics Olympiad (IRPHO), Iran, 2017
+
+- **Gold Medalist**, National Robocop Olympiad, Iran, 2015
+
+
 
 Teaching Experience
 ======
