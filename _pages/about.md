@@ -1,78 +1,72 @@
----
-layout: home
-title: "Kasra Fallah"
 permalink: /
+title: "Who Am I?"
 author_profile: true
-# Optional: show a compact feed of latest posts on the homepage
-# entries_layout: list
-# classes: wide
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-{% include base_path %}
+Hello! I’m **Kasra Fallah**, a Ph.D. candidate in Electrical Engineering at **Columbia University**, advised by [Professor James Anderson](https://www.columbia.edu/~ja3451/). Before Columbia, I completed my Master of Applied Science at the **University of Waterloo**, where I was supervised by [Professor Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). I was awarded the Graduate Research Studentship (GRS) and the International Master's Award of Excellence (IMAE) fellow. I earned my Bachelor’s degree in Electrical Engineering from **Sharif University of Technology** in Tehran, Iran, graduating with distinction. During my undergraduate studies, I served as a teaching assistant and in research positions.
 
-## Hi, I’m Kasra 👋
+Research interests
+======
+I am broadly interested in **stochastic analysis**, especially in its applications to **control theory**, **learning theory**, and **mathematical optimization**.
 
-I’m a **Ph.D. candidate in Electrical Engineering at Columbia University**, advised by [James Anderson](https://www.columbia.edu/~ja3451/).  
-Previously: **MASc, University of Waterloo** (advisor: [Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/)); **B.Sc., Sharif University of Technology**.  
-Awards include the **IMAE**, **GRS**, and **Xuemin Shen Scholarship**.
+## Selected Publications
 
-I work on **stochastic analysis** for **control theory**, **learning theory**, and **mathematical optimization**.
-
----
-
-### Quick links
-- 📄 **CV**: [PDF](/files/CV.pdf)
-- 📝 **Google Scholar**: <https://scholar.google.com/citations?user=YOUR_ID>
-- 🧪 **Publications**: [/publications/](/publications/)
-- 🎓 **Teaching**: [/teaching/](/teaching/)
-- 🤝 **Mentorship**: [/mentorship/](/mentorship/)
-- ✉️ **Contact**: [kasra.fallah@columbia.edu](mailto:kasra.fallah@columbia.edu)
-
----
-
-## Highlights
-
-- **On the Gradient Domination of the LQG Problem**  
-  *Kasra Fallah*, Leonardo F. Toso, James Anderson  
-  _arXiv preprint_, under review (2025)  
+- **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
+  * **Kasra Fallah** *, Leonardo F. Toso, and James Anderson  
+  _arXiv preprint_, Under review 2025.  
   [arXiv](https://arxiv.org/abs/2507.09026)
 
-- **On the Calculation of Mutual Information for Channels with Gauss–Markov Noise**  
-  *Kasra Fallah*  
-  _University of Waterloo, 2024_  
+- **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise]([https://arxiv.org/abs/2507.09026](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47))**  
+  * **Kasra Fallah** *  
+ _University of Waterloo_, UW space, 2024.  
   [UW Space](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)
 
----
+Note: * means the first/cofirst auther
+Mentorship
+======
 
-## Mentorship
-- **Quinkun Li** — M.S. Applied Mathematics, Columbia (now Ph.D. IEOR @ NUS)  
-- **William Celline** — M.S. Applied Mathematics, Columbia
+- Quiankun Li:  MS student, Applied Math department, Columbia University (Now PhD IEOR @ NUS)
+- William Celline: MS student, applied math department, Columbia University
 
----
+Honors and Awards
+======
 
-## Honors & Awards
-- **Xuemin Shen Graduate Scholarship in Telecommunication** — University of Waterloo (2023)  
-- **International Master’s Award of Excellence (IMAE)** — University of Waterloo (2022 & 2023)  
-- **Graduate Research Studentship (GRS)** — University of Waterloo  
-- **Gold Medalist**, National Physics Olympiad (IRPHO), Iran (2017)  
-- **Gold Medalist**, National Robocup Olympiad, Iran (2015)
+- **Xuemin Shen Graduate Scholarship in Telecommunication**  
+  University of Waterloo, 2023
 
----
+- **International Master's Award of Excellence (IMAE)**  
+  University of Waterloo (2022 & 2023)
 
-## Teaching
-**Columbia University**  
-- EEME E6601: _Introduction to Control Theory_ — Head TA  
-- EEME E6602: _Modern Control Theory_ — Head TA  
+- **Graduate Research Studentship (GRS)**  
+  University of Waterloo 
 
-**University of Waterloo**  
-- ECE 307: _Probability Theory and Statistics 2_ — Head TA  
+- **Gold Medalist**, 30th National Physics Olympiad (IRPHO), Iran, 2017
 
-**Sharif University of Technology**  
-- _Probability Theory_ — Head TA  
-- _Mathematics for Engineering_ — Head TA (2 terms)  
-- _Signals and Systems_ — Head TA (2 terms)
+- **Gold Medalist**, National Robocop Olympiad, Iran, 2015
 
----
+Teaching Experience
+======
+I have over five years of teaching experience, beginning with high school-level coaching for the **Physics Olympiad (IPhO)**, which sparked my enduring passion for teaching and mentoring. Since then, I have served as a Head Teaching Assistant (Head TA) across multiple institutions and courses:
 
-## Service
-- Reviewer: **IEEE CDC**, **IEEE Transactions on Information Theory**, **NeurIPS**
+#### Columbia University
+- **EEME E6601: Introduction to Control Theory** — Head TA  
+- **EEME E6602: Modern Control Theory** — Head TA  
+
+#### University of Waterloo
+- **ECE 307: Probability Theory and Statistics 2** — Head TA
+
+#### Sharif University of Technology
+- **Probability Theory** — Head TA  
+- **Mathematics for Engineering** — Head TA (2 terms)  
+- **Signals and Systems** — Head TA (2 terms)
+
+Service and Leadership
+======
+
+- Reviewer for major conferences and journals in the control and information theory community, including:
+  - **IEEE Conference on Decision and Control (CDC)**
+  - **IEEE Transactions on Information Theory**
+  - **NeurIPS**
