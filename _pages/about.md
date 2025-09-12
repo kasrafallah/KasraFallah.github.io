@@ -15,14 +15,15 @@ I am broadly interested in **stochastic analysis**, especially in its applicatio
 ## Selected Publications
 
 - **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
-  * **Kasra Fallah** *, Leonardo F. Toso, and James Anderson  
+  *Kasra Fallah*, Leonardo F. Toso, and James Anderson  
   _arXiv preprint_, Under review 2025.  
   [arXiv](https://arxiv.org/abs/2507.09026)
 
-- **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise]([https://arxiv.org/abs/2507.09026](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47))**  
-  * **Kasra Fallah** *  
- _University of Waterloo_, UW space, 2024.  
+- **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)**  
+  *Kasra Fallah*  
+  _University of Waterloo_, UW space, 2024.  
   [UW Space](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)
+
 
 Note: * means the first/cofirst auther
 Mentorship
