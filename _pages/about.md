@@ -1,19 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who Am I?"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-
-I am a **Ph.D. candidate in Electrical Engineering** at **Columbia University**, advised by [Professor James Anderson](https://www.columbia.edu/~ja3451/).  
-
-Previously, I completed my **Master of Applied Science** at the **University of Waterloo**, where I was supervised by [Professor Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). I was awarded both the **Graduate Research Studentship (GRS)** and the **International Master's Award of Excellence (IMAE)**.  
-
-I received my **Bachelor’s degree in Electrical Engineering** from **Sharif University of Technology** in Tehran, Iran, graduating with distinction. During my undergraduate studies, I was actively involved in research and served as a teaching assistant across multiple courses.
+I am a **Ph.D. candidate in Electrical Engineering** at **Columbia University**, advised by [Professor James Anderson](https://www.columbia.edu/~ja3451/).  Previously, I completed my **Master of Applied Science** at the **University of Waterloo**, where I was supervised by [Professor Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). I was awarded both the **Graduate Research Studentship (GRS)** and the **International Master's Award of Excellence (IMAE)**.  I received my **Bachelor’s degree in Electrical Engineering** from **Sharif University of Technology** in Tehran, Iran, graduating with distinction. During my undergraduate studies, I was actively involved in research and served as a teaching assistant across multiple courses.
 
 ---
 
