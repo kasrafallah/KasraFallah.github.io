@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **Ph.D. candidate in Electrical Engineering** at **Columbia University**, advised by [Professor James Anderson](https://www.columbia.edu/~ja3451/).  Previously, I completed my **Master of Applied Science** at the **University of Waterloo**, where I was supervised by [Professor Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). I was awarded both the **Graduate Research Studentship (GRS)** and the **International Master's Award of Excellence (IMAE)**.  I received my **Bachelor’s degree in Electrical Engineering** from **Sharif University of Technology** in Tehran, Iran, graduating with distinction. During my undergraduate studies, I was actively involved in research and served as a teaching assistant across multiple courses.
+I am a **Ph.D. candidate in Electrical Engineering** at **Columbia University**, advised by [Professor James Anderson](https://www.columbia.edu/~ja3451/).  Previously, I completed my **Master of Applied Science** at the **University of Waterloo**, where I was supervised by [Professor Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). I was awarded both the **Graduate Research Studentship (GRS)** and the **International Master's Award of Excellence (IMAE)**.  I received my **Bachelor’s degree in Electrical Engineering** from **Sharif University of Technology** in Tehran, Iran, graduating with distinction. 
 
 ---
 
@@ -14,16 +14,21 @@ I am a **Ph.D. candidate in Electrical Engineering** at **Columbia University**,
 I am broadly interested in **stochastic analysis** and its applications to:
 - **Control theory**  
 - **Learning theory**  
-- **Mathematical optimization**
+- **Optimization**
 
 ---
 
 ## Selected Publications
-- **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
-  *Kasra Fallah* *, Leonardo F. Toso, James Anderson  
+- [3] **[Adversarially Robust Multitask Adaptive Control](https://arxiv.org/abs/2511.05444)**  
+  <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso *, James Anderson  
+  _arXiv preprint_, under review (2025)
+  
+
+- [2] **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
+   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso, James Anderson  
   _arXiv preprint_, under review (2025)  
 
-- **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)**  
+- [1] **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)**  
   *Kasra Fallah* *  
   _University of Waterloo, 2024_  
 
@@ -41,8 +46,7 @@ I am broadly interested in **stochastic analysis** and its applications to:
 - **Xuemin Shen Graduate Scholarship in Telecommunication**, University of Waterloo (2023)  
 - **International Master’s Award of Excellence (IMAE)**, University of Waterloo (2022 & 2023)  
 - **Graduate Research Studentship (GRS)**, University of Waterloo  
-- **Gold Medalist**, National Physics Olympiad (IRPHO), Iran (2017)  
-- **Gold Medalist**, National Robocup Olympiad, Iran (2015)  
+- **Gold Medalist**, National Physics Olympiad (IRPHO), Iran (2017)   
 
 ---
 
@@ -64,7 +68,6 @@ I have over five years of teaching experience, starting as a coach for the **Int
 ---
 
 ## Service and Leadership
-- Reviewer for leading conferences and journals, including:  
-  - **IEEE Conference on Decision and Control (CDC)**  
-  - **IEEE Transactions on Information Theory**  
-  - **NeurIPS**  
+
+- Reviewer for leading conferences and journals, including the **IEEE Conference on Decision and Control (CDC)**, **American Control Conference (ACC)**, **Learning for Dynamics & Control (L4DC)**, **NeurIPS**, **ICLR**, and **IEEE Transactions on Information Theory**.
+
