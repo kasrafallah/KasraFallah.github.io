@@ -67,7 +67,11 @@ I have over five years of teaching experience, starting as a coach for the **Int
 
 ---
 
-## Service and Leadership
+## Service
 
-- Reviewer for leading conferences and journals, including the **IEEE Conference on Decision and Control (CDC)**, **American Control Conference (ACC)**, **Learning for Dynamics & Control (L4DC)**, **NeurIPS**, **ICLR**, and **IEEE Transactions on Information Theory**.
+- Reviewer (Control Community)
+    - conferences: IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Learning for Dynamics & Control (L4DC)
+    - Journals: IEEE Transactions on Information Theory (TIT), IEEE Transactions on Automatic Control (TACON)
+- Reviewer (CS/ML Community)
+    - conferences: NeurIPS, ICLR
 
