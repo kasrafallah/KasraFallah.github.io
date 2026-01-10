@@ -12,7 +12,7 @@ title                    : "Kasra's Homepage"
 title_separator          : "-"
 name                     : &name "Kasra Fallah"
 description              : &description "personal description"
-url                      : https://kasrafallah.github.io/
+url                      : "https://kasrafallah.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
