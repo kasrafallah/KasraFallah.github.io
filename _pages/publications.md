@@ -8,12 +8,6 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 # Selected Publications
 ## Adversarially Robust Multitask Adaptive Control
 
@@ -81,5 +75,11 @@ $$\mathbb{E}[R_T^{(i)}] = \tilde{\mathcal{O}}\left(\frac{\sqrt{dT}}{m_j}+ \lambd
 
 
 Full details and codes can be found in this [repository](https://github.com/jd-anderson/multi_task_adaptive_control/tree/main) 
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 
