@@ -19,17 +19,27 @@ I am broadly interested in **stochastic analysis** and its applications to:
 ---
 
 ## Selected Publications
+- [4] **[NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](https://arxiv.org/abs/2511.05444)**  
+  <strong>*Kasra Fallah* *</strong>, Haoyu Novak Chen, Rudramani Singha, Eunji Kong, Georgo Turi, Attila Losonczy, Erfan Zabeh *
+  
+  _arXiv preprint_, Under review (2026)
+
+  
 - [3] **[Adversarially Robust Multitask Adaptive Control](https://arxiv.org/abs/2511.05444)**  
-  <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso *, James Anderson  
-  _arXiv preprint_, under review (2025)
+  <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso *, James Anderson
+  
+  _arXiv preprint_, To be aprear on L4DC 2026
   
 
 - [2] **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
-   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso, James Anderson  
+   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso, James Anderson
+  
   _arXiv preprint_, under review (2025)  
 
+
 - [1] **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)**  
-  *Kasra Fallah* *  
+  *Kasra Fallah* *
+  
   _University of Waterloo, 2024_  
 
 *Note: * indicates first/co-first author.*
@@ -73,5 +83,5 @@ I have over five years of teaching experience, starting as a coach for the **Int
     - conferences: IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Learning for Dynamics & Control (L4DC)
     - Journals: IEEE Transactions on Information Theory (TIT), IEEE Transactions on Automatic Control (TACON)
 - Reviewer (CS/ML Community)
-    - conferences: NeurIPS, ICLR
+    - conferences: NeurIPS, ICLR, ICML
 
