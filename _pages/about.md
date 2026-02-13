@@ -78,7 +78,7 @@ I have over five years of teaching experience, starting as a coach for the **Int
 ---
 
 ## Service
-
+- Leadership: Electrical Engineering Ambassador 2026 @ Columbia University
 - Reviewer (Control Community)
     - conferences: IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Learning for Dynamics & Control (L4DC)
     - Journals: IEEE Transactions on Information Theory (TIT), IEEE Transactions on Automatic Control (TACON)
