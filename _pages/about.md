@@ -19,7 +19,7 @@ I am broadly interested in **stochastic analysis** and its applications to:
 ---
 
 ## Selected Publications
-- [6] **[Multitask LQG Control: Performance and Generalization Bounds]([#](https://arxiv.org/abs/2604.16730))**  
+- [6] **[Multitask LQG Control: Performance and Generalization Bounds](https://arxiv.org/abs/2604.16730)**  
   Leonardo F. Toso*, <strong>*Kasra Fallah* *</strong>, Charis Stamouli *, George J. Pappas, James Anderson
   
   _arXiv preprint_, Under review (2026)
