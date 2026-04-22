@@ -12,8 +12,8 @@ I am a **Ph.D. candidate in Electrical Engineering** at **Columbia University**,
 
 ## Research Interests
 I am broadly interested in **stochastic analysis** and its applications to:
+- **Theoretical machine learning**
 - **Control theory**  
-- **Learning theory**  
 - **Optimization**
 
 ---
@@ -58,7 +58,8 @@ I am broadly interested in **stochastic analysis** and its applications to:
 
 ## Mentorship
 - **Quinkun Li** — M.S. Applied Mathematics, Columbia University (now Ph.D. IEOR, NUS)  
-- **William Celline** — M.S. Applied Mathematics, Columbia University  
+- **William Celline** — M.S. Applied Mathematics, Columbia University (Column N.A.)
+- **Aaron Cherian** - M.S. electrical engineering, Columbia University
 
 ---
 
@@ -70,9 +71,8 @@ I am broadly interested in **stochastic analysis** and its applications to:
 
 ---
 ## Collaborators
-
-My research is highly collaborative and spans control theory, optimization, machine learning, motor systems, and neuroscience.  
-I have had the privilege of working with faculty, postdoctoral researchers, students, and research scientists across these areas.
+My research focuses on decision-making over stochastic time-series data at the intersection of control theory, optimization, machine learning, motor systems, and neuroscience.
+I have been fortunate to collaborate with faculty, postdoctoral researchers, students, and research scientists across these areas.
 
 ### Professors
 - **James Anderson** — Department of Electrical Engineering, Columbia University  
