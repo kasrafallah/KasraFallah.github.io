@@ -20,25 +20,24 @@ I am broadly interested in **stochastic analysis** and its applications to:
 
 ## Selected Publications
 - [6] **[Multitask LQG Control: Performance and Generalization Bounds](https://arxiv.org/abs/2604.16730)**  
-  Leonardo F. Toso*, <strong>*Kasra Fallah* *</strong>, Charis Stamouli *, George J. Pappas, James Anderson
+  Leonardo F. Toso*, <strong>*Kasra Fallah* *</strong> *, Charis Stamouli*, George J. Pappas, James Anderson
   
-  _arXiv preprint_, To be appear on CDC 2026
+  _Accepted at the 65th IEEE Conference on Decision and Control (CDC 2026)_
 
 - [5] **[On the Unification of Optimal Current Reference Theory for Wound Rotor Synchronous Machines](https://arxiv.org/abs/2604.17165)**  
   Maxfield Parson-Scherban, <strong>*Kasra Fallah*</strong>, Navid Rahbariasr, Bernard Steyaert, James Anderson, Matthias Preindl
   
-  _arXiv preprint_, To be appear on CDC 2026
+  _Accepted at the 65th IEEE Conference on Decision and Control (CDC 2026)_
   
 - [4] **[NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](#)**  
   <strong>*Kasra Fallah* *</strong>, Haoyu Novak Chen, Rudramani Singha, Eunji Kong, Georgo Turi, Attila Losonczy, Erfan Zabeh *
   
   _arXiv preprint_, Under review (2026)
 
-  
-- [3] **[Adversarially Robust Multitask Adaptive Control](https://arxiv.org/abs/2511.05444)**  
+- [3] **[Adversarially Robust Multitask Adaptive Control](https://proceedings.mlr.press/v331/fallah26a.html)**  
   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso *, James Anderson
   
-  _arXiv preprint_, 8th Annual Learning for Dynamics & Control Conference 2026
+  _Proceedings of the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026), PMLR, 2026_
   
 
 - [2] **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
