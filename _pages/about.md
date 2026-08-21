@@ -16,9 +16,14 @@ I am broadly interested in **stochastic analysis** and its applications to:
 - **Control theory**  
 - **Optimization**
 
----
-
+----
 ## Selected Publications
+
+- [7] **[Applying Linear Parameter-Varying Model Predictive Current Control to an Enhanced WRSM Model](https://arxiv.org/abs/2604.17165)**  
+  Maxfield Parson-Scherban, <strong>*Kasra Fallah*</strong>, Navid Rahbariasr, Peng Wang, Bernard Steyaert, James Anderson, Matthias Preindl
+  
+  _IEEE/CCAE Symposium on Advanced Electrification Systems (SAES 2026), to appear in IEEE Xplore_
+
 - [6] **[Multitask LQG Control: Performance and Generalization Bounds](https://arxiv.org/abs/2604.16730)**  
   Leonardo F. Toso *, <strong>*Kasra Fallah* *</strong>, Charis Stamouli *, George J. Pappas, James Anderson
   
@@ -28,60 +33,63 @@ I am broadly interested in **stochastic analysis** and its applications to:
   Maxfield Parson-Scherban, <strong>*Kasra Fallah*</strong>, Navid Rahbariasr, Bernard Steyaert, James Anderson, Matthias Preindl
   
   _Accepted at the 65th IEEE Conference on Decision and Control (CDC 2026)_
-  
+
 - [4] **[NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](#)**  
-  <strong>*Kasra Fallah* *</strong>, Haoyu Novak Chen, Rudramani Singha, Eunji Kong, Georgo Turi, Attila Losonczy, Erfan Zabeh *
+  <strong>*Kasra Fallah* *</strong>, Haoyu Novak Chen, Rudramani Singha, Eunji Kong, Gergely Turi, Attila Losonczy, Erfan Zabeh *
   
-  _arXiv preprint_, Under review (2026)
+  _arXiv preprint_, under review (2026)
 
 - [3] **[Adversarially Robust Multitask Adaptive Control](https://proceedings.mlr.press/v331/fallah26a.html)**  
   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso *, James Anderson
   
   _Proceedings of the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026), PMLR, 2026_
-  
 
 - [2] **[On the Gradient Domination of the LQG Problem](https://arxiv.org/abs/2507.09026)**  
-   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso, James Anderson
+  <strong>*Kasra Fallah*</strong>, Leonardo F. Toso, James Anderson
   
-  _arXiv preprint_, under review (2025)  
-
+  _arXiv preprint_, under review (2025)
 
 - [1] **[On the Calculation of Mutual Information for Channels with Gauss-Markov Noise](https://uwspace.uwaterloo.ca/items/af4d3ce9-3e98-4ddd-bf6e-251997aa5b47)**  
-  *Kasra Fallah* *
+  *Kasra Fallah*
   
-  _University of Waterloo, 2024_  
+  _University of Waterloo, 2024_
 
 *Note: * indicates first/co-first author.*
 
 ---
 
 ## Mentorship
+
 - **Quinkun Li** — M.S. Applied Mathematics, Columbia University (now Ph.D. IEOR, NUS)  
-- **William Celline** — M.S. Applied Mathematics, Columbia University (Column N.A.)
-- **Aaron Cherian** - M.S. electrical engineering, Columbia University
+- **William Celline** — M.S. Applied Mathematics, Columbia University (Column N.A.)  
+- **Aaron Cherian** — M.S. Electrical Engineering, Columbia University
 
 ---
 
 ## Honors and Awards
+
 - **Xuemin Shen Graduate Scholarship in Telecommunication**, University of Waterloo (2023)  
 - **International Master’s Award of Excellence (IMAE)**, University of Waterloo (2022 & 2023)  
 - **Graduate Research Studentship (GRS)**, University of Waterloo  
-- **Gold Medalist**, National Physics Olympiad (IRPHO), Iran (2017)   
+- **Gold Medalist**, National Physics Olympiad (IRPHO), Iran (2017)
 
 ---
+
 ## Collaborators
-My research focuses on decision-making over stochastic time-series data at the intersection of control theory, optimization, machine learning, motor systems, and neuroscience.
+
+My research focuses on decision-making over stochastic time-series data at the intersection of control theory, optimization, machine learning, motor systems, and neuroscience.  
 I have been fortunate to collaborate with faculty, postdoctoral researchers, students, and research scientists across these areas.
 
 ### Professors
+
 - **James Anderson** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [2], [3], [5], [6]
+  Coauthor on [2], [3], [5], [6], [7]
 
 - **George J. Pappas** — Department of Electrical and Systems Engineering, University of Pennsylvania  
   Coauthor on [6]
 
 - **Matthias Preindl** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [5]
+  Coauthor on [5], [7]
 
 - **Attila Losonczy** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
@@ -90,31 +98,47 @@ I have been fortunate to collaborate with faculty, postdoctoral researchers, stu
   Coauthor on [4]
 
 ### Postdoctoral Researchers
+
+- **Peng Wang** — Department of Electrical Engineering, Columbia University  
+  Coauthor on [7]
+
 - **Eunji Kong** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
 
 - **Erfan Zabeh** — Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University  
   Coauthor on [4]
+
 ### Research Scientists
+
 - **Navid Rahbariasr** — Associate Research Scientist, Department of Electrical Engineering, Columbia University  
-  Coauthor on [5]
+  Coauthor on [5], [7]
+
 ### PhD Students
+
 - **Leonardo F. Toso** — Department of Electrical Engineering, Columbia University  
   Coauthor on [2], [3], [6]
 
 - **Charis Stamouli** — Department of Electrical and Systems Engineering, University of Pennsylvania  
   Coauthor on [6]
+
 - **Maxfield Parson-Scherban** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [5]
+  Coauthor on [5], [7]
+
 - **Bernard Steyaert** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [5]
+  Coauthor on [5], [7]
+
 ### Other Collaborators
+
 - **Haoyu Novak Chen** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
 
 - **Rudramani Singha** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
+
+---
+
 ## Teaching Experience
+
 I have over five years of teaching experience, starting as a coach for the **International Physics Olympiad (IPhO)** and later serving as **Head Teaching Assistant** across multiple institutions.
 
 **Columbia University**  
@@ -127,8 +151,7 @@ I have over five years of teaching experience, starting as a coach for the **Int
 **Sharif University of Technology**  
 - *Probability Theory* — Head TA  
 - *Mathematics for Engineering* — Head TA (2 terms)  
-- *Signals and Systems* — Head TA (2 terms)  
-
+- *Signals and Systems* — Head TA (2 terms)
 ---
 
 ## Service
