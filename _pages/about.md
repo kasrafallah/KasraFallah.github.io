@@ -18,6 +18,14 @@ I am broadly interested in **stochastic analysis** and its applications to:
 
 ----
 ## Selected Publications
+- [9] **[ConicFlow: Constrained Inference-time Optimal Control for Flow Matching Models](#)**  
+  Shervin Khalafi *, <strong>*Kasra Fallah* *</strong>, Sung Cho, Dongsheng Ding, James Anderson, Alejandro Ribeiro
+  
+  _Under review_
+- [8] **[Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness](#)**  
+  <strong>*Kasra Fallah* *</strong>, Rudramani Singha *, Hannah Ghanei, Paul Sajda, James Anderson, Erfan Zabeh
+  
+  _Under review_
 
 - [7] **[Applying Linear Parameter-Varying Model Predictive Current Control to an Enhanced WRSM Model](https://arxiv.org/abs/2604.17165)**  
   Maxfield Parson-Scherban, <strong>*Kasra Fallah*</strong>, Navid Rahbariasr, Peng Wang, Bernard Steyaert, James Anderson, Matthias Preindl
@@ -34,10 +42,10 @@ I am broadly interested in **stochastic analysis** and its applications to:
   
   _Accepted at the 65th IEEE Conference on Decision and Control (CDC 2026)_
 
-- [4] **[NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](#)**  
+- [4] **[NeuralFieldManifold: Reconstruction of LFP Manifold with Lag Embedding](#)**  
   <strong>*Kasra Fallah* *</strong>, Haoyu Novak Chen, Rudramani Singha, Eunji Kong, Gergely Turi, Attila Losonczy, Erfan Zabeh *
   
-  _arXiv preprint_, under review (2026)
+  _Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)_
 
 - [3] **[Adversarially Robust Multitask Adaptive Control](https://proceedings.mlr.press/v331/fallah26a.html)**  
   <strong>*Kasra Fallah* *</strong>, Leonardo F. Toso *, James Anderson
@@ -83,13 +91,20 @@ I have been fortunate to collaborate with faculty, postdoctoral researchers, stu
 ### Professors
 
 - **James Anderson** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [2], [3], [5], [6], [7]
+  Coauthor on [2], [3], [5], [6], [7], [8], [9]
 
 - **George J. Pappas** — Department of Electrical and Systems Engineering, University of Pennsylvania  
   Coauthor on [6]
 
+- **Alejandro Ribeiro** — Department of Electrical and Systems Engineering, University of Pennsylvania  
+  Coauthor on [9]
 - **Matthias Preindl** — Department of Electrical Engineering, Columbia University  
   Coauthor on [5], [7]
+
+- **Paul Sajda** — Department of Biomedical Engineering, Columbia University  
+  Coauthor on [8]
+
+
 
 - **Attila Losonczy** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
@@ -98,15 +113,16 @@ I have been fortunate to collaborate with faculty, postdoctoral researchers, stu
   Coauthor on [4]
 
 ### Postdoctoral Researchers
+- **Erfan Zabeh** — Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University  
+  Coauthor on [4], [8]
 
-- **Peng Wang** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [7]
 
 - **Eunji Kong** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
 
-- **Erfan Zabeh** — Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University  
-  Coauthor on [4]
+- **Peng Wang** — Department of Electrical Engineering, Columbia University  
+  Coauthor on [7]
+
 
 ### Research Scientists
 
@@ -117,25 +133,30 @@ I have been fortunate to collaborate with faculty, postdoctoral researchers, stu
 
 - **Leonardo F. Toso** — Department of Electrical Engineering, Columbia University  
   Coauthor on [2], [3], [6]
-
+- **Shervin Khalafi** — Department of Electrical and Systems Engineering, University of Pennsylvania  
+  Coauthor on [9]
+ - **Maxfield Parson-Scherban** — Department of Electrical Engineering, Columbia University  
+  Coauthor on [5], [7]
 - **Charis Stamouli** — Department of Electrical and Systems Engineering, University of Pennsylvania  
   Coauthor on [6]
 
-- **Maxfield Parson-Scherban** — Department of Electrical Engineering, Columbia University  
-  Coauthor on [5], [7]
+
+
+
 
 - **Bernard Steyaert** — Department of Electrical Engineering, Columbia University  
   Coauthor on [5], [7]
 
 ### Other Collaborators
 
+- **Hannah Ghanei** — School of Computer Science and Electronic Engineering, University of Surrey  
+  Coauthor on [8]
+
 - **Haoyu Novak Chen** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
   Coauthor on [4]
 
 - **Rudramani Singha** — Peter O’Donnell Jr. Brain Institute, University of Texas Southwestern Medical Center  
-  Coauthor on [4]
-
----
+  Coauthor on [4], [8]
 
 ## Teaching Experience
 
