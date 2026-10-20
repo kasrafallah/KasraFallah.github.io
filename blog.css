@@ -9,3 +9,6 @@
 .blog-page .card-visual{position:relative;background-size:cover;background-position:center 42%;isolation:isolate}
 .blog-page .card-visual::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(7,19,31,.57),rgba(7,19,31,.17) 43%,rgba(7,19,31,.64))}
 .blog-page .card-visual small,.blog-page .card-visual strong{position:relative;z-index:1;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+
+/* Reliable public-domain artwork source; no API request required. */
+.blog-page .card-visual{background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Elihu_Vedder_-_The_Cup_of_Love.jpg") !important;background-position:center 36%;background-size:cover}
